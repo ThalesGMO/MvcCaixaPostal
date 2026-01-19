@@ -1,0 +1,12 @@
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\bin\Debug\net9.0\SistemaCaixaPostal.Core.deps.json
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\bin\Debug\net9.0\SistemaCaixaPostal.Core.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\bin\Debug\net9.0\SistemaCaixaPostal.Core.pdb
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\SistemaCaixaPostal.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\SistemaCaixaPostal.Core.AssemblyInfoInputs.cache
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\SistemaCaixaPostal.Core.AssemblyInfo.cs
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\SistemaCaixaPostal.Core.csproj.CoreCompileInputs.cache
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\SistemaCaixaPostal.Core.sourcelink.json
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\SistemaCaixaPostal.Core.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\refint\SistemaCaixaPostal.Core.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\SistemaCaixaPostal.Core.pdb
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Core\obj\Debug\net9.0\ref\SistemaCaixaPostal.Core.dll

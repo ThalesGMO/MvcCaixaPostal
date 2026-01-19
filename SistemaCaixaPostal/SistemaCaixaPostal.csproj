@@ -4,10 +4,14 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <DefaultItemExcludes>$(DefaultItemExcludes);SistemaCaixaPostal.Core/**;SistemaCaixaPostal.Data/**</DefaultItemExcludes>
   </PropertyGroup>
 
+  
+
   <ItemGroup>
-    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.0" />
+    <ProjectReference Include="SistemaCaixaPostal.Core\SistemaCaixaPostal.Core.csproj" />
+    <ProjectReference Include="SistemaCaixaPostal.Data\SistemaCaixaPostal.Data.csproj" />
   </ItemGroup>
 
 </Project>

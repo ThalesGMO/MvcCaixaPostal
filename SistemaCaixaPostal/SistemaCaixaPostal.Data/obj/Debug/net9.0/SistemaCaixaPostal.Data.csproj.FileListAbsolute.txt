@@ -1,0 +1,16 @@
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\bin\Debug\net9.0\SistemaCaixaPostal.Data.deps.json
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\bin\Debug\net9.0\SistemaCaixaPostal.Data.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\bin\Debug\net9.0\SistemaCaixaPostal.Data.pdb
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\bin\Debug\net9.0\SistemaCaixaPostal.Core.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\bin\Debug\net9.0\SistemaCaixaPostal.Core.pdb
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaCaixaPostal.Data.csproj.AssemblyReference.cache
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaCaixaPostal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaCaixaPostal.Data.AssemblyInfoInputs.cache
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaCaixaPostal.Data.AssemblyInfo.cs
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaCaixaPostal.Data.csproj.CoreCompileInputs.cache
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaCaixaPostal.Data.sourcelink.json
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaC.385FFB3E.Up2Date
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaCaixaPostal.Data.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\refint\SistemaCaixaPostal.Data.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\SistemaCaixaPostal.Data.pdb
+C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\SistemaCaixaPostal.Data\obj\Debug\net9.0\ref\SistemaCaixaPostal.Data.dll
