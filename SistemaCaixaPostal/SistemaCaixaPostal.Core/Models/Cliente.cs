@@ -11,4 +11,6 @@ public class Cliente
     public string Telefone { get; private set; }
 
     public int IdClienteStatus { get; private set; }
+
+    public ClienteStatus ClienteStatus {get; private set;}
 }

@@ -41,3 +41,47 @@ C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal
 C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.pdb
 C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.genruntimeconfig.cache
 C:\Users\thale\OneDrive\Desktop\Projetinho MVC\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\ref\SistemaCaixaPostal.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.csproj.AssemblyReference.cache
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.AssemblyInfoInputs.cache
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.AssemblyInfo.cs
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.csproj.CoreCompileInputs.cache
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.RazorAssemblyInfo.cache
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.RazorAssemblyInfo.cs
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.sourcelink.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\refint\SistemaCaixaPostal.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.pdb
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\appsettings.Development.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\appsettings.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.staticwebassets.runtime.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.staticwebassets.endpoints.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.exe
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.deps.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.runtimeconfig.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.pdb
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\Npgsql.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.Core.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.Data.dll
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.Core.pdb
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\bin\Debug\net9.0\SistemaCaixaPostal.Data.pdb
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\scopedcss\bundle\SistemaCaixaPostal.styles.css
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\compressed\jlau28ipsm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\staticwebassets.build.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\staticwebassets.development.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\swae.build.ex.cache
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaC.3C4BA857.Up2Date
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\SistemaCaixaPostal.genruntimeconfig.cache
+C:\Projetos\MvcCaixaPostal\SistemaCaixaPostal\obj\Debug\net9.0\ref\SistemaCaixaPostal.dll

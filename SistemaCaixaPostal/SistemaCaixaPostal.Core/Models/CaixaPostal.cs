@@ -1,14 +1,16 @@
+using System;
+
 namespace SistemaCaixaPostal.Core.Models;
 
 public class CaixaPostal
 {
     public int Id { get; private set; }
 
-    public int IdCliente { get; set; }
+    public int IdCliente { get; private set; }
 
-    public int IdSocio { get; set; }
+    public int IdSocio { get; private set; }
 
-    public int IdAluguelStatus { get; set; }
+    public int IdAluguelStatus { get; private set; }
 
     public string Codigo { get; private set; }
 
@@ -22,4 +24,5 @@ public class CaixaPostal
 
     public virtual Cliente Cliente { get; set; }
     public virtual Socio Socio { get; set; }
+    public virtual AluguelStatus AluguelStatus {get; set;}
 }

@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using SistemaCaixaPostal.Core.Models;
 
@@ -9,7 +8,7 @@ public class ClienteStatusConfiguration : IEntityTypeConfiguration<ClienteStatus
 {
     public void Configure(EntityTypeBuilder<ClienteStatus> builder)
     {
-        builder.ToTable(nameof(ClienteStatus));
+        builder.ToTable("cliente_status");
         builder.HasKey(x => x.Id);
         builder.Property(x => x.Id).HasColumnName("id");
         builder.Property(x => x.Nome).HasColumnName("nome").IsRequired();
