@@ -3,7 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using SistemaCaixaPostal.Core.Interfaces.Repositories;
+using SistemaCaixaPostal.Core.Models;
 using SistemaCaixaPostal.Data;
+using SistemaCaixaPostal.Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,7 +14,10 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
 
-
+builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+builder.Services.AddScoped<ICaixaPostalRepository, CaixaPostalRepository>();
+builder.Services.AddScoped<ISocioRepository, SocioRepository>();
+   
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

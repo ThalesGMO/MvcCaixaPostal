@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cG0mF3v9hV8=",
+  "dgSpecHash": "8sTzSx1DCyg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thale\\OneDrive\\Desktop\\Projetinho MVC\\MvcCaixaPostal\\SistemaCaixaPostal\\SistemaCaixaPostal.Core\\SistemaCaixaPostal.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Projetos\\MvcCaixaPostal\\SistemaCaixaPostal\\SistemaCaixaPostal.Core\\SistemaCaixaPostal.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thale\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\thale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\thale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
