@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using SistemaCaixaPostal.Core.Helpers;
+using SistemaCaixaPostal.Core.Interfaces.Helpers;
 using SistemaCaixaPostal.Core.Interfaces.Repositories;
 using SistemaCaixaPostal.Core.Models;
 using SistemaCaixaPostal.Data;
@@ -17,6 +19,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<ICaixaPostalRepository, CaixaPostalRepository>();
 builder.Services.AddScoped<ISocioRepository, SocioRepository>();
+builder.Services.AddScoped<INotification, Notification>();
    
 // Add services to the container.
 builder.Services.AddControllersWithViews();

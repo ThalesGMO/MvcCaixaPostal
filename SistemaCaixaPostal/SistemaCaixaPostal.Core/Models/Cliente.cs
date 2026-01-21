@@ -2,8 +2,9 @@ namespace SistemaCaixaPostal.Core.Models;
 
 public class Cliente
 {
-    public int Id { get; private set; }
-
+    protected Cliente() {}
+    public int Id { get; }
+    
     public string Nome { get; private set; }
 
     public string Email { get; private set; }

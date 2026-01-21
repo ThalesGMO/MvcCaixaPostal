@@ -41,8 +41,7 @@ public class SocioRepository : ISocioRepository
 
     public async Task<Socio> BuscarPorIdAsync(int id)
     {
-        return await _context.Socios
-         .FirstOrDefaultAsync(x => x.Id == id);
+        return await _context.Socios.FindAsync(id);
     }
 
     public async Task CriarAsync(Socio socio)

@@ -1,0 +1,19 @@
+@using SistemaCaixaPostal.Core.Models
+
+@{
+    ViewData["Title"] = "Gestão de Sócios";
+}
+@model IEnumerable<SistemaCaixaPostal.Core.Models.Socio>
+
+<div Class="Container">
+    <h1>Teste dos sócios</h1>
+    @foreach (Socio socio in Model)
+    {
+        <div>
+           <h1>@socio.Id</h1> 
+           <h2>@socio.Nome</h2> 
+           <h2>@socio.Email</h2> 
+           <h2>@socio.Telefone</h2> 
+        </div>
+    }
+</div>

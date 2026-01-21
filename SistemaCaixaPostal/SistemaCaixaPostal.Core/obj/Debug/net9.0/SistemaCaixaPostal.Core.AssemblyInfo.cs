@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaCaixaPostal.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6824437a244723b330726bcff0eb5b500727924")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d18f6697bd2949a8271290f77f1d1d94183d11")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaCaixaPostal.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaCaixaPostal.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
